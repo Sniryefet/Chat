@@ -22,22 +22,22 @@ The Client's GUI also contains the Following buttons :
 
 ### Simulation
 ---
-Example of chat between three Clients - Alice, Bob and Canny
+Example of chat between three Clients - Alice, Bob and Canny.
 
 * Alice Bob and Canny connecting to the server.
-Notice that each client is getting alert of new members login in
+Notice that each client is getting alert of new members login in.
 ![](https://github.com/Sniryefet/Chat/blob/master/Pictures/multi%20client%20connection.PNG)
 
 
 
 * Alice whispers Bob.
-Notice Canny is logged in but don't see the message
+Notice Canny is logged in but don't see the message.
 ![](https://github.com/Sniryefet/Chat/blob/master/Pictures/whisper.PNG)
 
 
 
 * Alice Broadcast. 
-Notice this time Bob and Canny recieved  the message
+Notice this time Bob and Canny recieved  the message.
 ![](https://github.com/Sniryefet/Chat/blob/master/Pictures/Broadcast.PNG)
 
 
@@ -47,7 +47,7 @@ Notice this time Bob and Canny recieved  the message
 
 
 
-* Alice Disconnecting
+* Alice Disconnecting.
 Notice that each online Client receives a message informing him about her disconnection.
 ![](https://github.com/Sniryefet/Chat/blob/master/Pictures/Alice%20diconnect.PNG)
 
