@@ -31,13 +31,13 @@ Notice that each client is getting alert of new members login in.
 
 
 * Alice whispers Bob.
-Notice Canny is logged in but don't see the message.
+Notice Canny is logged in but doesn't see the message.
 ![](https://github.com/Sniryefet/Chat/blob/master/Pictures/whisper.PNG)
 
 
 
-* Alice Broadcast. 
-Notice this time Bob and Canny recieved  the message.
+* Alice Broadcasts. 
+Notice this time Bob and Canny both recieved  the message.
 ![](https://github.com/Sniryefet/Chat/blob/master/Pictures/Broadcast.PNG)
 
 
